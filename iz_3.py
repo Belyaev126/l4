@@ -7,7 +7,7 @@
 # спортсмен за 7 дней?
 
 if __name__ == '__main__':
-    sport = 1
+    sport = 10
 
     for i in range(sport, 7, 1):
         sport += (sport * 0.1)
